@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1017976857262",
+    "firebase_url": "https://flutterfirebase-52169.firebaseio.com",
+    "project_id": "flutterfirebase-52169",
+    "storage_bucket": "flutterfirebase-52169.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017976857262:android:8011b90935a89817d0833f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_appfirebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017976857262-0pdr2gfauul7kn7id72n1s1a89o83131.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARKssEO_ZKo6qxLMpL65gVublVzXwfqvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017976857262-0pdr2gfauul7kn7id72n1s1a89o83131.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
